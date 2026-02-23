@@ -1,5 +1,5 @@
 global:
-  domain: alice-queue-saas.alice-platform.com
+  domain: alice-queue-saas.alicelaw.net
 frontend:
   replicas: 2
   image: alice-queue-saas/frontend:latest
